@@ -1,0 +1,14 @@
+List of Peers : []
+List of Peers : []
+Generated Gossip Message : 14.13.10:('127.0.0.1', 3000):Gossip Message 1
+New connection from ('127.0.0.1', 4000)
+Generated Gossip Message : 14.13.20:('127.0.0.1', 3000):Gossip Message 2
+Received Gossip Message : 14.13.23:('127.0.0.1', 4000):Gossip Message 1
+Liveness Request:14.13.26:('127.0.0.1', 4000)
+Liveness Reply:14.13.26:('127.0.0.1', 3000):('127.0.0.1', 4000)
+Generated Gossip Message : 14.13.30:('127.0.0.1', 3000):Gossip Message 3
+Received Gossip Message : 14.13.33:('127.0.0.1', 4000):Gossip Message 2
+Liveness Request:14.13.39:('127.0.0.1', 4000)
+Liveness Reply:14.13.39:('127.0.0.1', 3000):('127.0.0.1', 4000)
+Generated Gossip Message : 14.13.40:('127.0.0.1', 3000):Gossip Message 4
+Received Gossip Message : 14.13.43:('127.0.0.1', 4000):Gossip Message 3

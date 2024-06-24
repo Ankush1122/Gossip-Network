@@ -1,0 +1,80 @@
+List of Peers : [('127.0.0.1', 3001)]
+List of Peers : [('127.0.0.1', 3001), ('127.0.0.1', 3002)]
+List of Peers : [('127.0.0.1', 3001), ('127.0.0.1', 3002)]
+Received Gossip Message : 14.59.41:('127.0.0.1', 3001):Gossip Message 3
+Received Gossip Message : 14.59.43:('127.0.0.1', 3002):Gossip Message 2
+Generated Gossip Message : 14.59.48:('127.0.0.1', 3003):Gossip Message 1
+Liveness Request:14.59.49:('127.0.0.1', 3002)
+Liveness Request:14.59.50:('127.0.0.1', 3001)
+Received Gossip Message : 14.59.51:('127.0.0.1', 3001):Gossip Message 4
+Liveness Reply:14.59.51:('127.0.0.1', 3003):('127.0.0.1', 3002)
+Liveness Reply:14.59.51:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Received Gossip Message : 14.59.53:('127.0.0.1', 3002):Gossip Message 3
+Generated Gossip Message : 14.59.58:('127.0.0.1', 3003):Gossip Message 2
+Received Gossip Message : 15.00.01:('127.0.0.1', 3001):Gossip Message 5
+Liveness Request:15.00.02:('127.0.0.1', 3002)
+Liveness Request:15.00.03:('127.0.0.1', 3001)
+Received Gossip Message : 15.00.03:('127.0.0.1', 3002):Gossip Message 4
+Liveness Reply:15.00.04:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Liveness Reply:15.00.04:('127.0.0.1', 3003):('127.0.0.1', 3002)
+Generated Gossip Message : 15.00.08:('127.0.0.1', 3003):Gossip Message 3
+Received Gossip Message : 15.00.11:('127.0.0.1', 3001):Gossip Message 6
+Received Gossip Message : 15.00.13:('127.0.0.1', 3002):Gossip Message 5
+Liveness Request:15.00.15:('127.0.0.1', 3002)
+Liveness Request:15.00.16:('127.0.0.1', 3001)
+Liveness Reply:15.00.17:('127.0.0.1', 3003):('127.0.0.1', 3002)
+Liveness Reply:15.00.17:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Generated Gossip Message : 15.00.18:('127.0.0.1', 3003):Gossip Message 4
+Received Gossip Message : 15.00.21:('127.0.0.1', 3001):Gossip Message 7
+Received Gossip Message : 15.00.23:('127.0.0.1', 3002):Gossip Message 6
+Received Gossip Message : 
+List of Peers : [('127.0.0.1', 3002), ('127.0.0.1', 3001), ('127.0.0.1', 3002)]
+List of Peers : [('127.0.0.1', 3001), ('127.0.0.1', 3003), ('127.0.0.1', 3002)]
+List of Peers : [('127.0.0.1', 3001), ('127.0.0.1', 3002), ('127.0.0.1', 3003), ('127.0.0.1', 3001)]
+Received Gossip Message : 15.03.51:('127.0.0.1', 3001):Gossip Message 1
+Liveness Request:15.03.54:('127.0.0.1', 3001)
+Received Gossip Message : 15.03.55:('127.0.0.1', 3002):Gossip Message 1
+Liveness Request:15.03.58:('127.0.0.1', 3002)
+Generated Gossip Message : 15.04.00:('127.0.0.1', 3003):Gossip Message 1
+Received Gossip Message : 15.04.01:('127.0.0.1', 3001):Gossip Message 2
+Liveness Reply:15.04.03:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Liveness Reply:15.04.03:('127.0.0.1', 3003):('127.0.0.1', 3002)
+Received Gossip Message : 15.04.05:('127.0.0.1', 3002):Gossip Message 2
+Liveness Request:15.04.07:('127.0.0.1', 3001)
+Generated Gossip Message : 15.04.10:('127.0.0.1', 3003):Gossip Message 2
+Liveness Request:15.04.11:('127.0.0.1', 3002)
+Received Gossip Message : 15.04.11:('127.0.0.1', 3001):Gossip Message 3
+Received Gossip Message : 
+Dead Node:('127.0.0.1', 3002):15.04.16:('127.0.0.1', 3003)
+Liveness Reply:15.04.16:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Generated Gossip Message : 15.04.20:('127.0.0.1', 3003):Gossip Message 3
+Liveness Request:15.04.20:('127.0.0.1', 3001)
+Received Gossip Message : 15.04.21:('127.0.0.1', 3001):Gossip Message 4
+Liveness Reply:15.04.29:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Generated Gossip Message : 15.04.30:('127.0.0.1', 3003):Gossip Message 4
+Received Gossip Message : 15.04.31:('127.0.0.1', 3001):Gossip Message 5
+Liveness Request:15.04.33:('127.0.0.1', 3001)
+Generated Gossip Message : 15.04.40:('127.0.0.1', 3003):Gossip Message 5
+Received Gossip Message : 15.04.41:('127.0.0.1', 3001):Gossip Message 6
+Liveness Reply:15.04.42:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Liveness Request:15.04.46:('127.0.0.1', 3001)
+Generated Gossip Message : 15.04.50:('127.0.0.1', 3003):Gossip Message 6
+Received Gossip Message : 15.04.51:('127.0.0.1', 3001):Gossip Message 7
+Liveness Reply:15.04.55:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Liveness Request:15.04.59:('127.0.0.1', 3001)
+Generated Gossip Message : 15.05.00:('127.0.0.1', 3003):Gossip Message 7
+Received Gossip Message : 15.05.01:('127.0.0.1', 3001):Gossip Message 8
+Liveness Reply:15.05.08:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Generated Gossip Message : 15.05.10:('127.0.0.1', 3003):Gossip Message 8
+Received Gossip Message : 15.05.11:('127.0.0.1', 3001):Gossip Message 9
+Liveness Request:15.05.12:('127.0.0.1', 3001)
+Generated Gossip Message : 15.05.20:('127.0.0.1', 3003):Gossip Message 9
+Liveness Reply:15.05.21:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Received Gossip Message : 15.05.21:('127.0.0.1', 3001):Gossip Message 10
+Liveness Request:15.05.25:('127.0.0.1', 3001)
+Generated Gossip Message : 15.05.30:('127.0.0.1', 3003):Gossip Message 10
+Liveness Reply:15.05.34:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Liveness Request:15.05.38:('127.0.0.1', 3001)
+Liveness Reply:15.05.47:('127.0.0.1', 3003):('127.0.0.1', 3001)
+Liveness Request:15.05.51:('127.0.0.1', 3001)
+Liveness Reply:15.06.00:('127.0.0.1', 3003):('127.0.0.1', 3001)
